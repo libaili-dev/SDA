@@ -171,6 +171,7 @@ namespace SDA.Utility
             Saturday = Monday.AddDays(5);
             Sunday = Monday.AddDays(6);
 
+
             LastMonday = Monday.AddDays(-7);
             LastTuesday = LastMonday.AddDays(1);
             LastWednesday = LastMonday.AddDays(2);
